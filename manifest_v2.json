@@ -34,40 +34,49 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmb9p": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmrw5": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmrw5xring": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmws3": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmws4": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmws441": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmws4xring": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     },
     "xmws5": {
-      "version": "1.25.1",
-      "file_name": "KlikBand-1.25.1.rpk"
+      "version": "1.25.2",
+      "file_name": "KlikBand-1.25.2.rpk",
+      "versionCode": 59
     }
   },
   "ext": {}
