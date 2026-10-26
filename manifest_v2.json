@@ -3,7 +3,7 @@
     "id": "com.ashafizullah.klikband",
     "restype": "quick_app",
     "name": "KlikBand",
-    "description": "穆斯林日常功修助手：礼拜时间（含倒计时与提醒）、引导式记念与赞珠、伊斯兰历与节日、斋戒提醒、朝向（Qibla）、真主九十九尊名、祈祷词等。开源、免费、无需账号、完全离线。界面支持印尼语、英语和中文。\n\nDaily worship companion for Muslims: prayer times with countdown and alerts, guided dhikr and tasbih, Hijri calendar and holidays, fasting reminders, Qibla, Asmaul Husna, duas and more. Open source, free, no account, fully offline. Available in Indonesian, English and Chinese.\n\n社区制作的 Vela 快应用，非小米官方产品。Community quick app, not an official Xiaomi product.",
+    "description": "穆斯林日常功修助手：礼拜时间（含倒计时与提醒）、引导式记念与赞珠、伊斯兰历与节日、斋戒提醒、朝向（Qibla）、真主九十九尊名、祈祷词等。开源、免费、无需账号、完全离线。可用 KlikBand 的 AstroBox 插件发送全球任意地点，并可选择多种计算方法（印尼宗教部、世界穆斯林联盟、北美伊斯兰协会、埃及、乌姆古拉等）。界面支持印尼语、英语和中文。\n\nDaily worship companion for Muslims: prayer times with countdown and alerts, guided dhikr and tasbih, Hijri calendar and holidays, fasting reminders, Qibla, Asmaul Husna, duas and more. Open source, free, no account, fully offline. Any place in the world can be sent with KlikBand's AstroBox plugin, with several calculation methods (Kemenag, MWL, ISNA, Egypt, Umm al-Qura and more). Available in Indonesian, English and Chinese.\n\n社区制作的 Vela 快应用，非小米官方产品。Community quick app, not an official Xiaomi product.",
     "preview": [
       "preview/m-b9-clock.png",
       "preview/m-pp-prayer.png",
@@ -32,15 +32,42 @@
     }
   ],
   "downloads": {
-    "xmb9": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmb9p": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmrw5": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmrw5xring": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmws3": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmws4": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmws441": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmws4xring": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" },
-    "xmws5": { "version": "1.24.4", "file_name": "KlikBand-1.24.4.rpk" }
+    "xmb9": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmrw5": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmws3": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmws4": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmws441": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    },
+    "xmws5": {
+      "version": "1.25.0",
+      "file_name": "KlikBand-1.25.0.rpk"
+    }
   },
   "ext": {}
 }
