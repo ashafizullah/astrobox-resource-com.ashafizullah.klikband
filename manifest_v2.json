@@ -33,52 +33,7 @@
     }
   ],
   "downloads": {
-    "xmb9": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmb9p": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmrw5": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmrw5xring": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmrw6": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmws3": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmws4": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmws441": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmws4xring": {
-      "version": "1.25.2",
-      "file_name": "KlikBand-1.25.2.rpk",
-      "versionCode": 59
-    },
-    "xmws5": {
+    "xmb9 xmb9p xmb10 xmb10nfc xmb10p xmb11 xmb11nfc xmrw5 xmrw5xring xmrw6 xmws3 xmws4 xmws441 xmws4xring xmws5 xmws541": {
       "version": "1.25.2",
       "file_name": "KlikBand-1.25.2.rpk",
       "versionCode": 59
